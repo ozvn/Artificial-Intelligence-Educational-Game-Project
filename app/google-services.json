@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "YOUR_PROJECT_NUMBER",
+    "firebase_url": "PROJECTURL.firebaseio.com",
+    "project_id": "PROJECT_ID",
+    "storage_bucket": "STORAGE"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "APP_ID",
+        "android_client_info": {
+          "package_name": "com.example.mlbastan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "CLIEN_ID",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mlbastan",
+            "certificate_hash": "CERTİFİCATE"
+          }
+        },
+        {
+          "client_id": "CLIENT_ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "CURRENT_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "CLIENT_ID",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
